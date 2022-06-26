@@ -1,0 +1,25 @@
+gradleproject6/Main.java
+ gradleproject6.Main
+gradleproject6/NewJFrame.java
+ gradleproject6.NewJFrame
+ gradleproject6.NewJFrame$1
+ gradleproject6.NewJFrame$10
+ gradleproject6.NewJFrame$11
+ gradleproject6.NewJFrame$12
+ gradleproject6.NewJFrame$13
+ gradleproject6.NewJFrame$14
+ gradleproject6.NewJFrame$15
+ gradleproject6.NewJFrame$16
+ gradleproject6.NewJFrame$17
+ gradleproject6.NewJFrame$18
+ gradleproject6.NewJFrame$19
+ gradleproject6.NewJFrame$2
+ gradleproject6.NewJFrame$20
+ gradleproject6.NewJFrame$21
+ gradleproject6.NewJFrame$3
+ gradleproject6.NewJFrame$4
+ gradleproject6.NewJFrame$5
+ gradleproject6.NewJFrame$6
+ gradleproject6.NewJFrame$7
+ gradleproject6.NewJFrame$8
+ gradleproject6.NewJFrame$9
